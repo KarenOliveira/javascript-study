@@ -1,0 +1,18 @@
+Section 2:
+
+Tags Scripts before close tag body. (Loading Issues)
+const -> Variable type that can't be changed
+let -> newer than var
+
+Variable types:
+Number (Decimal too)
+String
+Boolean
+Null
+Undefinable (Variables that have not been defined yet)
+Object (Data Structures)
+Symbol (Used with Object)
+
+Has Mathematics order of Operation
+Has ++ and -- operator and -= or +=
+NaN stands for Not a Number
