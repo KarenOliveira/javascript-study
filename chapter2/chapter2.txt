@@ -16,3 +16,5 @@ Symbol (Used with Object)
 Has Mathematics order of Operation
 Has ++ and -- operator and -= or +=
 NaN stands for Not a Number
+
+Arrays can store different types let random =['shaun','crystal',30,20];
