@@ -28,3 +28,8 @@ When using < and > to String they use alphabet order to result, small cases grea
 == convert and evaluate 
 === compare types too
 !== differ
+
+String + Number will concat
+
+Negative Number are false, Positive true, but zero is false.
+String with any lenght will always true
