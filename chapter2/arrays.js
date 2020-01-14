@@ -26,6 +26,7 @@ let push = ninjas.push('teste1')
 console.log('push: '+push);
 console.log('push result: '+ninjas);
 
+//Pop returns the last element and drop it from array
 let pop = ninjas.pop();
 console.log('pop: '+pop);
 console.log('pop result: '+ninjas);
