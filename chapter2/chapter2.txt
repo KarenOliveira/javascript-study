@@ -9,7 +9,7 @@ Number (Decimal too)
 String
 Boolean
 Null
-Undefinable (Variables that have not been defined yet)
+Undefined (Variables that have not been defined yet)
 Object (Data Structures)
 Symbol (Used with Object)
 
@@ -18,3 +18,6 @@ Has ++ and -- operator and -= or +=
 NaN stands for Not a Number
 
 Arrays can store different types let random =['shaun','crystal',30,20];
+
+Variables declared are Undefined, when try to math operations will show NaN.
+For setting variable as null, it will log null, when tried to math operations null will behave as 0.
