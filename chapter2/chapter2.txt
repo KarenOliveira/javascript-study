@@ -24,3 +24,7 @@ For setting variable as null, it will log null, when tried to math operations nu
 
 "true" and true are different.
 String comparison are case sensitive
+When using < and > to String they use alphabet order to result, small cases greater than capital
+== convert and evaluate 
+=== compare types too
+!== differ
