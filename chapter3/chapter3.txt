@@ -1,1 +1,10 @@
 Single quotes can interfere on string's closing
+
+AND -> &&
+OR -> ||
+NOT -> !
+
+continue; -> Next iteration on loop
+break; -> Exits loop
+
+Switch uses === comparations
