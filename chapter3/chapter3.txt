@@ -8,3 +8,5 @@ continue; -> Next iteration on loop
 break; -> Exits loop
 
 Switch uses === comparations
+
+You can declare variables with same name, if one has block scope
