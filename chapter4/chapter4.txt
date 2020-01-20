@@ -3,3 +3,7 @@ Functions are object and can be stored on const
 Function declarations are processed first, but expression not.
 
 const speak = function(name = 'luigi',time = 'night') setting default values to function
+
+Arrow Functions -> A faster way to write functions
+Parenthesis on parameters only if has one parameter, and if has one line, doesn't need return keyword
+const calcArea = radius =>3.14 * radius **2;
