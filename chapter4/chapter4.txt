@@ -1,0 +1,5 @@
+Functions are object and can be stored on const
+
+Function declarations are processed first, but expression not.
+
+const speak = function(name = 'luigi',time = 'night') setting default values to function
