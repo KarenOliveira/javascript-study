@@ -7,3 +7,8 @@ const speak = function(name = 'luigi',time = 'night') setting default values to 
 Arrow Functions -> A faster way to write functions
 Parenthesis on parameters only if has one parameter, and if has one line, doesn't need return keyword
 const calcArea = radius =>3.14 * radius **2;
+
+Function => greet();
+Methods => name.greet();
+
+Callback Function -> Chamar função em Parametro
