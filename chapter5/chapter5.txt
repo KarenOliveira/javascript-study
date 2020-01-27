@@ -9,3 +9,12 @@ this -> acess variables
 Arrow functions can't be used inside methods from objects that uses this keyword, because it can leads to problem.
 
 The keyword function can be supressed
+
+
+Primitive Types -> Number, String, Boolean, null, undefined e symbols
+Reference -> all types of object
+
+Stack  -> Memory (Limited) -> Primitive are stored in and pointers to heap/Reference
+Reference are stored on heap
+
+When you do pointer = pointer, the memory position doesn't change
