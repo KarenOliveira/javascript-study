@@ -1,0 +1,7 @@
+DOM -> Document Object Model
+
+You can user Browser to get selector
+Node List can use brackets and foreache
+HTMLCollection can't be foreache but it can be treated like an array item[x]
+
+Node List != HTMLCollection
