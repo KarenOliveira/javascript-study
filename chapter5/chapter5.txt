@@ -1,0 +1,11 @@
+Objects hava properties and things it can do
+
+things -> methods
+
+Object properties are manipulate with dot or brackets
+
+this -> acess variables
+
+Arrow functions can't be used inside methods from objects that uses this keyword, because it can leads to problem.
+
+The keyword function can be supressed
