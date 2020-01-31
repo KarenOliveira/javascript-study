@@ -5,3 +5,9 @@ Node List can use brackets and foreache
 HTMLCollection can't be foreache but it can be treated like an array item[x]
 
 Node List != HTMLCollection
+Classlist -> Can see classes of a queryselector result
+
+-> Inner text  for visible text
+-> Content Text - > all Text
+
+(html).toggle = on/off
