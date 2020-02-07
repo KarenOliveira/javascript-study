@@ -11,3 +11,7 @@ Classlist -> Can see classes of a queryselector result
 -> Content Text - > all Text
 
 (html).toggle = on/off
+To get an Array from HTMLCollection ->Array.from(article.children)
+parentElement -> Get parent from parent
+
+Next/PreviousElementSibling
