@@ -15,3 +15,5 @@ To get an Array from HTMLCollection ->Array.from(article.children)
 parentElement -> Get parent from parent
 
 Next/PreviousElementSibling
+
+If has Multiples Event Listeners, the lower one will be fired first, stopPropagation method stops firing propagation
